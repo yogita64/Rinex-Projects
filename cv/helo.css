@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,200;1,300;1,400&display=swap');
+
+* {
+    margin: 2;
+    padding: 2;
+}
+/* dropdown start */
+li a{
+    padding: 10px;
+}
+.list a{
+    margin-left: 0px;
+    background-color: rgb(153, 143, 143);
+}
+.list a:hover{
+    background-color: wheat;
+}
+ul.drop .contact{
+    float: right;
+    width: 100px;
+    height: 25px;
+    padding-top: 5px;
+    margin-right: 150px;
+    text-align: center;
+    background-color: rgb(153, 143, 143);
+    list-style: none;    
+}
+.list a{
+    padding: 5px;
+    display: block;
+    width: 20vw;
+    text-decoration: none;
+}
+.contact:hover .list{
+    display:block;
+}
+.list{
+    display: none;
+}
+/*drop down end*/
+.name{
+    text-align: right;
+    /* justify-content: center; */
+    /* background-color: blue; */
+    list-style: none;
+     font-size: 20px; 
+
+}
+ .myclass{
+    background-color: blue;
+    line-height: normal;
+    height: 50px;
+    font-size: 20px;
+    padding-left: 155px;
+    padding-top: 15px;
+
+} 
+.frame {
+     
+    width: 700px;
+    /* height: 710px;  */
+    border: 3px solid black;
+    background: #eee;
+    margin: auto;
+    padding: 15px 10px;
+    border-style: solid;
+    border-radius: 50px 0 50px 0;
+
+    /* border: 10px solid yellow; */
+  }
+ .subclass{
+    background-color: blueviolet;
+   
+  }
+   .myclass2{
+    border: 3px solid black;
+     padding-top: 185px;
+     margin: auto;
+     border-style: solid;
+}
+    
+.class{
+    font-size: larger;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.skills{
+    background-color: blueviolet;
+}
