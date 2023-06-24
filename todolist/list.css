@@ -1,0 +1,38 @@
+.text-center{
+    align-items: center;
+    text-align: center;
+}
+.container{
+     text-align: center;
+    align-items: center;  
+     /* width: 360px;  */
+}
+#IF{
+    height: 2.5vw;
+    width: 20vw;
+    border: 2px solid black;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+/* body{
+    width: 50%;
+} */
+#add{
+    height: 3vw;
+    width: 2.5vw;
+    vertical-align: middle;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+.paragraph-styling{
+        background-color: aliceblue;
+        font-size: 30px;
+        border: 3px solid black;
+        margin-top: 20px;
+         width: 40vw; 
+        text-align: center;
+        align-items: center;
+         margin-left: 360px;  
+        vertical-align: middle; 
+        /* border-color: brown; */
+    }
